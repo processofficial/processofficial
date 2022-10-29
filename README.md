@@ -4,7 +4,7 @@ Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 J'aime bien dév 👀
 ------------------
 
-Je fais des sites internet, (html, css, javascript) du java et du python ! (J'apprends très souvent des langages différents mais j'ai mis dans cette description ceux que je métrise le mieux.
+Je fais des sites internet, (html, css, javascript) du java et du python ! (J'apprends très souvent des langages différents mais j'ai mis dans cette description ceux que je métrise le plus.
 
 * 🌍  Je suis basé à Lille
 * 🖥️  Regarde mon portofolio : [\*Portofolio en maintenance\*](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
