@@ -6,7 +6,7 @@ J'aime bien dév 👀
 
 Je fais des sites internet, (html, css, javascript) du java et du python ! (J'apprends très souvent des langages différents mais j'ai mis dans cette description ceux que je métrise le plus.
 
-* 🌍  Je suis basé à Lille
+*  https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1eb-1f1f7.png Je suis Français
 * 🖥️  Regarde mon portofolio : [\*Portofolio en maintenance\*](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * ✉️  Tu peux me contacter à [processlevrai@gmail.com](mailto:processlevrai@gmail.com)
 * 🧠  J'apprends C++
