@@ -6,8 +6,7 @@ J'aime bien dév 👀
 
 Je fais des sites internet, (html, css, javascript) du java et du python ! (J'apprends très souvent des langages différents mais j'ai mis dans cette description ceux que je métrise le plus.
 
-* ![flag-for-france_1f1eb-1f1f7](https://user-images.githubusercontent.com/116966709/198873393-cd0dce4c-d03e-4396-a599-1810a31e5983.png)
- Je suis Français
+* 🌍 Je suis Français
 * 🖥️  Regarde mon portofolio : [\*Portofolio en maintenance\*](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * ✉️  Tu peux me contacter à [processlevrai@gmail.com](mailto:processlevrai@gmail.com)
 * 🧠  J'apprends C++
