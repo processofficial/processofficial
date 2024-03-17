@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Je fais des serveurs Minecraft 1.8/1.20.2 pour le fun et apprendre ! <br>🤝Je peut d'ailleurs vous aider à ce sujet !<br>🌱J'approfondis mes connaissances en Java, en l'API de Bukkit !<br>💻J'ai mis Debian sur un vieil ordi, et j'y ai installé Docker et je me débrouille pas mal !<br>☁️Je sais assez bien paramétrer des enregistrements DNS sur cloudflare !<br><br><br>⚡Et plein d'autres petites expériences....
+🔭Je fais des serveurs Minecraft 1.8/1.20.2 pour le fun et apprendre ! <br>🤝Je peux d'ailleurs vous aider à ce sujet !<br>🌱J'approfondis mes connaissances en Java, en l'API de Bukkit !<br>💻J'ai mis Debian sur un vieil ordi, et j'y ai installé Docker et je me débrouille pas mal !<br>☁️Je sais assez bien paramétrer des enregistrements DNS sur cloudflare !<br><br><br>⚡Et plein d'autres petites expériences....
 
 
 ## 🌐 Socials:
